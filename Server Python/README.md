@@ -2,7 +2,7 @@
 
 ## For learning purpose only
 
-by ThanhNC
+by d4rkp0w4r
 
 Write in Python3 
 Server-Client architect + GUI 
